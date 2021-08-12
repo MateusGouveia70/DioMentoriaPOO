@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvaCloud.Core", "AvaCloud.Core\AvaCloud.Core.csproj", "{8C7F90FB-1480-4DE7-8FBE-489B1A486FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dio.AvaCloud.Test", "Dio.AvaCloud.Test\Dio.AvaCloud.Test.csproj", "{89BBD649-BDCA-4F63-88FE-740464C91C9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C7F90FB-1480-4DE7-8FBE-489B1A486FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C7F90FB-1480-4DE7-8FBE-489B1A486FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C7F90FB-1480-4DE7-8FBE-489B1A486FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C7F90FB-1480-4DE7-8FBE-489B1A486FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89BBD649-BDCA-4F63-88FE-740464C91C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89BBD649-BDCA-4F63-88FE-740464C91C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89BBD649-BDCA-4F63-88FE-740464C91C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89BBD649-BDCA-4F63-88FE-740464C91C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7513CA0B-B502-407C-B7CF-10F407551B42}
+	EndGlobalSection
+EndGlobal
